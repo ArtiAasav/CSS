@@ -8,5 +8,7 @@
 }
 
 .header img{
-    image-orientation: center;
+    display: block;
+    margin: auto;
+    size: 20px;
 }
