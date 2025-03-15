@@ -58,12 +58,13 @@
 /* JALUS */
 
 .footer {
-    text-align: center;
     background-color: #f5ca3d;
+    display: flex;
 }
 
 .footer p{
-    padding: 40px 0px;
+    padding: 40px 40px;
+    margin: auto;
     font-size: 32px;
     color: #fff;
 }
