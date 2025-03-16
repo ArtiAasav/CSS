@@ -1,5 +1,10 @@
 /* ÜLD */
 
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .container{
 }
 
@@ -45,15 +50,17 @@
     height: 600px;
 }
 
+
 .left img{
-    border-radius: 5px;
-    margin: 100px;
+    padding: 100px 100px;
+    width: 300px;
+    height: 400px;
     float: left;
 }
 
 .right{
     line-height: 2;
-    padding-top: 70px;
+    padding: 100px;
 }
 /* JALUS */
 
