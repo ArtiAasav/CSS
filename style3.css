@@ -50,6 +50,10 @@
     height: 600px;
 }
 
+.left{
+    float: left;
+    width: 25%;
+}
 
 .left img{
     padding: 100px 100px;
@@ -61,6 +65,7 @@
 .right{
     line-height: 2;
     padding: 100px;
+    width: 75%;
 }
 /* JALUS */
 
